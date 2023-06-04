@@ -7,6 +7,7 @@ authors = ["Sebastian Kalisz <sk.kaliszs@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.11"
 arcade = "3.0.0.dev21"
+pydantic = "^1.10.8"
 
 [tool.poetry.dev-dependencies]
 
