@@ -1,5 +1,5 @@
 from enemy import Enemy
 
 
-class NPC(Enemy):
+class Boss(Enemy):
     pass
