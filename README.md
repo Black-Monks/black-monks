@@ -3,7 +3,7 @@ Wejść do katalogu głównego projektu i wpisać:
 `docker-compose up`
 
 Lub lokalnie:
-1. `cd black_monks/black-monks`
+1. `cd black_monks`
 2. `poetry install`
 3. `poetry run python main.py`
 
