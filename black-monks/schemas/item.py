@@ -1,7 +1,7 @@
-from pydantic import BaseClass
+from pydantic import BaseModel
 
 
-class Item(BaseClass):
+class Item(BaseModel):
     image: str
     weight: float
     uniqueness: str
